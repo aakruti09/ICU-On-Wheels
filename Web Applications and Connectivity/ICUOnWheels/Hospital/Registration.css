@@ -1,0 +1,51 @@
+body{
+	background-image: url("reg_background.jpg");
+}
+h1{
+	font-family: Euphemia,Gadugi,Corbel,Batang,'Berlin Sans FB';
+	padding: 5px;
+	color:rgba(0, 200, 255, 1);
+	font-weight: bolder;
+}
+.maintbl{
+	width: 83%;
+}
+td{
+	font-family: Euphemia,Gadugi,Corbel,Batang,'Berlin Sans FB';
+	padding-left: 15px;
+	padding-top: 15px;
+	padding-right: 15px;
+	text-align: right; 
+	font-weight: 500;
+}
+.heading{
+	text-align: left;
+	font-size: 18px;
+	font-weight: bolder;
+}
+input,select,textarea{
+	font-family: Euphemia,Gadugi,Corbel,Batang,'Berlin Sans FB';
+	padding:5px;
+	width: 100%;
+	height: 40px;
+	font-size: 14px;
+	background-color: #00000000;
+	border: 1px solid #e0e0e0;
+}
+.except,#pat{
+	height: unset;
+	width: 18px; 
+}
+.td_content{
+	text-align: left;
+	font-weight: 100;
+}
+#btn_td{
+	text-align: center;
+	padding: 25px;
+}
+#btn{
+	color: #FFFFFF;
+	width: 150px;
+	background-color:rgba(0, 200, 255, 1);
+}

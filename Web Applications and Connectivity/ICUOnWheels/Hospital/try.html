@@ -1,0 +1,21 @@
+<html>
+	<head>
+		<script type="text/javascript">
+			function validphno(id)
+			{
+				var data=id.value;
+				var pattern=/(6|7|8|9)\d{9}/;
+				if(!pattern.test(data)){
+					id.focus();
+					alert("Enter valid phone number");
+				}
+			}
+		</script>
+	</head>
+	<body>
+		<form action="Registration.css">
+		<input id="me" type="text" name="phno" onchange="validphno(this)" />
+		<input id="me" type="text" name="phno" />
+		<input type="submit" value="Hello"/></form>
+	</body>
+</html>
