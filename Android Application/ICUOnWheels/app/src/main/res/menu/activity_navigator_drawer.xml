@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/book_bed"
+            android:icon="@drawable/book"
+            android:title="Book bed" />
+        <item
+            android:id="@+id/cancel_bed"
+            android:icon="@drawable/canc"
+            android:title="Cancel bed" />
+        <item
+            android:id="@+id/view_booking"
+            android:icon="@drawable/view"
+            android:title="View Booking" />
+        <item
+            android:id="@+id/facility"
+            android:icon="@drawable/facility"
+            android:title="View Facilities" />
+    </group>
+
+    <item android:title="Settings">
+        <menu>
+            <item
+                android:id="@+id/profile"
+                android:icon="@drawable/edit"
+                android:title="Manage Profile" />
+            <item
+                android:id="@+id/change_paswd"
+                android:icon="@drawable/pwd"
+                android:title="Change Password" />
+            <item
+                android:id="@+id/logout"
+                android:icon="@drawable/logout"
+                android:title="Logout" />
+        </menu>
+    </item>
+
+</menu>

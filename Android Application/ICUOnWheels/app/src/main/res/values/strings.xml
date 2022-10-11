@@ -1,0 +1,173 @@
+<resources>
+    <string name="app_name">ICUOnWheels</string>
+    <string name="title_activity_navigator">Navigator</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">ICU On Wheels</string>
+    <string name="nav_header_subtitle">A passion for putting patient first</string>
+    <string name="nav_header_desc">My Icon</string>
+    <string name="title_activity_login">Sign in</string>
+    <string name="username"></string>
+    <string name="password"></string>
+    <!-- Strings related to login -->
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string-array name="city_name">
+        <item>Ahmedabad</item>
+        <item>Surat</item>
+        <item>Vadodara</item>
+        <item>Rajkot</item>
+        <item>Bhavnagar</item>
+        <item>Jamnagar</item>
+        <item>Junagadh</item>
+        <item>Anand</item>
+        <item>Navsari</item>
+        <item>Surendranagar</item>
+        <item>Morbi</item>
+    </string-array>
+    <string-array name="ahmd_area">
+        <item>Maninagar</item>
+        <item>Maninagar Railway Station</item>
+        <item>Sola Bhagwat</item>
+        <item>Isanpur</item>
+        <item>Bhairavnath Road</item>
+        <item>Jawahar Chowk</item>
+        <item>Swaminarayan Mandir</item>
+        <item>Kankaria Lake</item>
+        <item>Rambaug</item>
+        <item>RTO Circle</item>
+        <item>Ranip</item>
+        <item>Bhavsar Hotel</item>
+        <item>Akhbarnagar</item>
+        <item>Pragatinagar</item>
+        <item>Shastrinagar</item>
+        <item>Jaymangal</item>
+        <item>Sola Cross Road</item>
+        <item>Valinath Chowk</item>
+        <item>Memnagar</item>
+        <item>Gujarat University</item>
+        <item>Andhjan Mandal</item>
+        <item>Himmatlal Park</item>
+        <item>Shivranjni</item>
+        <item>Jhasi Ki Rani</item>
+        <item>Nehrunagar</item>
+        <item>Manekbaug</item>
+        <item>Dharnidhar Derasar</item>
+        <item>Anjali</item>
+        <item>Chandranagar</item>
+        <item>Khodiyar Nagar</item>
+        <item>Danilimbda Cross Road</item>
+        <item>Vaikuthdham Mandir</item>
+        <item>Swaminarayan College</item>
+        <item>Kankaria Telephone Exchange</item>
+        <item>Mira Cinema Cross Road</item>
+        <item>Vasna</item>
+        <item>Danilimbda Road</item>
+        <item>Chhipa Society</item>
+        <item>Chandola Lake</item>
+        <item>BRTS Workshop</item>
+        <item>Kashiram Textiles</item>
+        <item>Narol</item>
+        <item>Mukesh Industries</item>
+        <item>Ghodasar</item>
+        <item>CTM Cross Road</item>
+        <item>Soni ni chali</item>
+        <item>Naroda ST Workshop</item>
+        <item>Naroda Gam</item>
+        <item>Sarkari Litho Press</item>
+        <item>Science City Approach</item>
+        <item>Visat Gandhinagar Approach</item>
+        <item>Kalupur Railway Station</item>
+        <item>Town Hall</item>
+    </string-array>
+    <string-array name="surat_area">
+        <item>Adajan</item>
+        <item>Pal Gam</item>
+        <item>Bardoli</item>
+        <item>Piplod</item>
+        <item>Athwalines</item>
+        <item>Suart Dumas Road</item>
+        <item>Ghod Dod Road</item>
+        <item>City Light</item>
+        <item>Vesu</item>
+        <item>Katargam</item>
+    </string-array>
+    <string-array name="baroda_area">
+        <item>Waghodia</item>
+        <item>Vasana Gotri Road</item>
+        <item>Savli</item>
+        <item>Bhayli Vasna</item>
+        <item>Alkapuri</item>
+        <item>Ajwa Road</item>
+        <item>Manjalpur</item>
+        <item>Fatehqunj</item>
+        <item>Bajwa</item>
+        <item>Laxmipura</item>
+    </string-array>
+    <string-array name="facility_list">
+        <item>Vantilator</item>
+        <item>Strecher</item>
+        <item>D-Fibrilator</item>
+        <item>Bipap Machine</item>
+        <item>Suction Machine</item>
+        <item>Oxyzen</item>
+    </string-array>
+    <string-array name="conditions">
+        <item>Accidental Case</item>
+        <item>Aneurysms</item>
+        <item>Asthama</item>
+        <item>Brain Tumor</item>
+        <item>Burning Case</item>
+        <item>Congenital heart defect</item>
+        <item>Critically ill</item>
+        <item>Diabetic ketoacidosis</item>
+        <item>Heart disease</item>
+        <item>Influenza</item>
+        <item>Life threatening acute condition</item>
+        <item>Prematured baby</item>
+        <item>Rattle snake bite</item>
+        <item>Stroke</item>
+        <item>Suicide case or mental case</item>
+        <item>Traumatic brain injury</item>
+    </string-array>
+    <string-array name="hospitals">
+        <item>Zydus Hospital</item>
+        <item>CIMS Hospital</item>
+        <item>Shalby Hospital</item>
+        <item>LG Hospital</item>
+        <item>SAL Hopsital</item>
+        <item>Government Hospital</item>
+    </string-array>
+    <string-array name="bookid_spinner">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+    </string-array>
+    <string-array name="doctors">
+        <item>Dr. Rajesh Desai</item>
+        <item>Dr. Jenifer Grace</item>
+        <item>Dr. Harshvardhan Rane</item>
+        <item>Dr. Krishnakanth Iyer</item>
+    </string-array>
+    <string name="title_activity_maps">Map</string>
+    <string-array name="relation">
+        <item>Parent</item>
+        <item>Partner</item>
+        <item>Guardian</item>
+        <item>Sibling</item>
+        <item>Friend</item>
+        <item>Cousin</item>
+        <item>Relative</item>
+        <item>Stranger</item>
+    </string-array>
+
+    <string name="title_activity_fullscreen">FullscreenActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+</resources>
